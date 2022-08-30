@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+}
+#KhusvantPhotography{
+    width: 150px;
+    float: left;
+    
+}
+#logo{
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    font-size: 50px;
+    
+}
+#navbar{
+    margin-top: 10px;
+}
+ul{
+    display: flex;
+    background-color: rgb(241, 147, 92);
+    color: rgb(27, 27, 112);
+}
+ul>li{
+    list-style: none;
+    margin: 10px;
+    font-size: 28px;
+    margin-left: 100px;
+}
+ul>li>a{
+    text-decoration: none;
+}
+#home-section{
+    display: flex;
+    color: rgb(255, 8, 8);
+}
+#home-section>div>h2{
+    font-size: 30px;
+    font-style: oblique;
+}
+#home-section>div>h3{
+    color: black;
+    margin-top: 60px;
+    margin-left: 100px;
+    font-size: 25px;
+}
+#home-section>div>button{
+    margin-left: 180px;
+    margin-top: 20px;
+    padding: 20px;
+    border: none;
+    background-color: rgb(144, 83, 202);
+    font-weight: 800;
+    border-radius: 15px;
+    color: white;
+}
+#home-section>div>button:hover{
+    color: black;
+    cursor: pointer;
+}
+#home-section>div{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 300px;
+}
+
+}
+#home-section>img{
+    float: right;
+    width:800px;
+    height: 600px;
+    margin: right 50px;
+}
+#Photos>h2{
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgb(224, 171, 106);
+    font-size: 50px;
+    font-style: inherit;
+    color: black;
+}
+#Photos>h2:hover{
+    color: gray;
+    cursor: pointer;
+}
+#Photos>div>img{
+    margin-top: 25px;
+    display: inline-block;
+    margin-left: 15px;
+}
+#About>h2{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+    background-color: rgb(224, 171, 106);
+    font-style: inherit;
+    color: black;
+}
+#About>h2:hover{
+    color: gray;
+    cursor: pointer;
+}
+#About>div>img{
+    width: 1600px;
+    margin-left: 45px;
+    margin-top: 25px;
+    height: 500px;
+}
+#About>div>h3{
+    margin-top: 50px;
+    text-align: left;
+    font-size: 35px;
+    color: rgb(117, 11, 11);
+    font-style: italic;
+}
+#contact>h2{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+    background-color: rgb(224, 171, 106);
+    font-style: inherit;
+    color: black;
+}
+#contact>h2:hover{
+    color: gray;
+    cursor: pointer;
+}
+#contact>div>h3{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(212, 107, 107);
+    font-style: italic;
+    margin-bottom: 80px;
+    margin: 25px;
+}
+
+
+
+
+
+
